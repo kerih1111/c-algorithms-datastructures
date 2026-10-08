@@ -1,0 +1,11 @@
+*.o
+*.out
+runner
+*.exe
+
+# IDE project metadata
+*.cbp
+*.depend
+*.layout
+.vscode/
+.idea/
